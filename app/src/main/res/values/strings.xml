@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Homework5</string>
+    <string name="search">Search</string>
+    <string name="go">Go</string>
+    <string name="overview">Overview</string>
+    <string name="genre">Genre</string>
+    <string name="publisher">Publisher</string>
+    <string name="playTrailer">Play Trailer</string>
+    <string name="similarGames">Similar Games</string>
+    <string name="finish">Finish</string>
+</resources>
